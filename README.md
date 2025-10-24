@@ -1,11 +1,9 @@
-==================================================================
-== PANDUAN VIDEO PENJELASAN - TUGAS 1 (Aplikasi Restoran) ==
-==================================================================
 
-(PERSIAPAN: Buka file Menu.java dan Main.java di VS Code)
+PANDUAN VIDEO PENJELASAN - TUGAS 1 (Aplikasi Restoran) 
+
 
 0. PEMBUKAAN
-   - "Halo, perkenalkan nama saya [Nama Kamu]. Di sini saya akan menjelaskan Tugas Praktik 1, yaitu membuat program aplikasi kasir restoran sederhana."
+   - "Halo, perkenalkan nama saya . Di sini saya akan menjelaskan Tugas Praktik 1, yaitu membuat program aplikasi kasir restoran sederhana."
 
 1. STRUKTUR PROGRAM (OOP)
    - "Sesuai petunjuk, program ini terdiri dari dua file: Menu.java dan Main.java."
@@ -59,9 +57,9 @@
    - "Sekian penjelasan saya untuk program Tugas 1. Terima kasih."
 
 
-==================================================================
-== PANDUAN VIDEO PENJELASAN - TUGAS 2 (Deklarasi) ==
-==================================================================
+
+PANDUAN VIDEO PENJELASAN - TUGAS 2 (Deklarasi) 
+
 
 (PERSIAPAN: Buka file Tugas2.java di VS Code)
 
